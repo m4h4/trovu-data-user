@@ -1,0 +1,10 @@
+# This is a YAML file, more abouts its syntax: https://en.wikipedia.org/wiki/YAML
+namespaces:
+- o
+- en
+- .us
+- github: .
+  name: my
+# defaultKeyword: g 
+language: en
+country: us
