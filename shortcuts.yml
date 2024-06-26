@@ -327,3 +327,9 @@ defr 1:
   tags:
   - dictionary
   - french
+p 1:
+  url: https://perplexity.ai/search?q=<text>
+  title: perplexity.ai
+  tags:
+  - search
+  - ai
